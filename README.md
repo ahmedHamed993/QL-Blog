@@ -17,7 +17,10 @@ This webiste implemented to provide some articles using graphcms we create one a
 
 - Article details page 
 
- * ![image](https://user-images.githubusercontent.com/68183022/213129478-1b114adf-204e-47f0-b9dd-94b120ee03b5.png)
+ * ![image](https://user-images.githubusercontent.com/68183022/213129744-e401a2b0-f8fd-4324-a0c0-ed3cbf4ea925.png)
+
+ * ![image](https://user-images.githubusercontent.com/68183022/213129870-0f3d5c95-3e49-44d6-a1ac-8e6fb0aa44b0.png)
+
 
 
 
