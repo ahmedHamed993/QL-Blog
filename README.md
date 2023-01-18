@@ -19,7 +19,7 @@ This webiste implemented to provide some articles using graphcms we create one a
 
   * ![image](https://user-images.githubusercontent.com/68183022/213129744-e401a2b0-f8fd-4324-a0c0-ed3cbf4ea925.png)
 
-  * ![image](https://user-images.githubusercontent.com/68183022/213129870-0f3d5c95-3e49-44d6-a1ac-8e6fb0aa44b0.png)
+  * ![image](https://user-images.githubusercontent.com/68183022/213130190-fb4a6fe1-1621-4610-99ba-85e2cfce2b6f.png)
 
 
 
