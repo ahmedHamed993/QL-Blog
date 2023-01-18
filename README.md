@@ -9,9 +9,16 @@ This webiste implemented to provide some articles using graphcms we create one a
 
 ## Images of website
 
-- ![image](https://user-images.githubusercontent.com/68183022/213129105-64dc56f8-06e5-4d89-a537-95f005acd231.png)
+- Home page
 
-- ![image](https://user-images.githubusercontent.com/68183022/213129164-a7fea9f8-3ff9-4a65-8432-2a698ed99dc0.png)
+ * ![image](https://user-images.githubusercontent.com/68183022/213129105-64dc56f8-06e5-4d89-a537-95f005acd231.png)
+
+ * ![image](https://user-images.githubusercontent.com/68183022/213129164-a7fea9f8-3ff9-4a65-8432-2a698ed99dc0.png)
+
+- Article details page 
+
+ * ![image](https://user-images.githubusercontent.com/68183022/213129478-1b114adf-204e-47f0-b9dd-94b120ee03b5.png)
+
 
 
 ## Url of webiste
